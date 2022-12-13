@@ -42,6 +42,9 @@ Mạng LSTM (Bộ nhớ ngắn hạn – dài hạn) là một loại RNN (Mạn
 
 * Từ epoch 10 trở đi thì accuracy trên tập test giảm do overfitting, loss tăng
 
+![318003847_503997925040225_803384621463593818_n](https://user-images.githubusercontent.com/116366668/207346210-ee717322-0aaf-4b7f-a351-49dd92b0e4e1.png)
+
+
 ## Thực thi
 
 ### Cài đặt thư viện 
