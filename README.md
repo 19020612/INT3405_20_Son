@@ -60,7 +60,7 @@ pip install requirements.txt
   4. Dán dường link vào ô: https://github.com/19020612/INT3405_20_Son/blob/deb396b05f33e3ee7ea642999b5dd6f0a9b6181b/int3405-20-son.ipynb 
   5. Chọn Import 
   6. Chọn Run -> Run All để train model
-  ![image](https://user-images.githubusercontent.com/116366668/207310061-95051acc-49fb-4e0a-b726-f2cb788a33a7.png)
+  ![image](https://user-images.githubusercontent.com/116366668/207310217-12af6b59-0106-4bf6-bf23-1bcff409d109.png)
 
 ## Thành viên
 ```
