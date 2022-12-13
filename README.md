@@ -52,7 +52,7 @@ Mạng LSTM (Bộ nhớ ngắn hạn – dài hạn) là một loại RNN (Mạn
 pip install requirements.txt
 ```
 ### Thực thi
-  1. Vào trang [Kaggle trong trình duyệt web](https://www.kaggle.com/code)
+  1. Vào trang [Kaggle trong sau](https://www.kaggle.com/code)
   
   2. Chọn <>Code -> Chọn New Notebook
       ![image](https://user-images.githubusercontent.com/116366668/207310763-0bc05b47-9c9a-4089-93a0-aec9f436874e.png)
