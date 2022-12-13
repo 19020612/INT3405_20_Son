@@ -52,19 +52,19 @@ Mạng LSTM (Bộ nhớ ngắn hạn – dài hạn) là một loại RNN (Mạn
 pip install requirements.txt
 ```
 ### Thực thi
-1. Thực thi tất cả các cell trong file int3405-20-son.ipynb  
-  Vào trang Kaggle trong trình duyệt web
-  1. Chọn <>Code -> Chọn New Notebook
+  1. Vào trang [Kaggle trong trình duyệt web](https://www.kaggle.com/code)
+  
+  2. Chọn <>Code -> Chọn New Notebook
       ![image](https://user-images.githubusercontent.com/116366668/207310763-0bc05b47-9c9a-4089-93a0-aec9f436874e.png)
 
-  2. Chọn File -> Import Notebook -> Import from GitHub
+  3. Chọn File -> Import Notebook -> Import from GitHub
      ![image](https://user-images.githubusercontent.com/116366668/207310637-49a46918-dd61-4dac-ab2c-9037158728e1.png)
      Dán dường link vào ô: https://github.com/19020612/INT3405_20_Son/blob/deb396b05f33e3ee7ea642999b5dd6f0a9b6181b/int3405-20-son.ipynb 
      ![image](https://user-images.githubusercontent.com/116366668/207310506-4e3d6f8b-fdf7-4426-a8b4-9550d2ce6ec1.png)
 
      Chọn Import 
      
-  3. Chọn Run -> Run All để train model
+  4. Chọn Run -> Run All để train model
   ![image](https://user-images.githubusercontent.com/116366668/207310217-12af6b59-0106-4bf6-bf23-1bcff409d109.png)
 
 ## Thành viên
