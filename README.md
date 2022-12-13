@@ -63,8 +63,12 @@ pip install requirements.txt
      ![image](https://user-images.githubusercontent.com/116366668/207310506-4e3d6f8b-fdf7-4426-a8b4-9550d2ce6ec1.png)
 
      Chọn Import 
+  4. Chọn Add data -> Search từ khóa INT3405-sen -> Chọn Add competition
+  
+  ![image](https://user-images.githubusercontent.com/116366668/207311743-5727de6d-45c7-4a85-b0e2-18f81e95a15c.png)
+
      
-  4. Chọn Run -> Run All để train model
+  5. Chọn Run -> Run All để train model
   ![image](https://user-images.githubusercontent.com/116366668/207310217-12af6b59-0106-4bf6-bf23-1bcff409d109.png)
 
 ## Thành viên
